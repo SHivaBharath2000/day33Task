@@ -1,0 +1,15 @@
+{
+  "name": "day-33-task",
+  "version": "1.0.0",
+  "description": "day 33 task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express-server": "node --watch express-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
